@@ -1,0 +1,85 @@
+.blue {
+	color:#EC4067 ;
+	font-family:"comic sans";
+	font-size:26px;
+}
+body{
+	background-image: url(http://www.themesltd.com/backgrounds/floral/white_little_white_flowers.gif);
+}
+ul {
+ 		 list-style-type :none ; 
+ 		/*removes the bullets*/ 
+ 		margin :0; 
+ 		padding:5 px 20 px; 
+ 		 /*both removes the browser's default settings*/ 
+ 		 background-color :#FFD400;
+ 		 text-align :center; 
+ 		overflow: hidden; 
+ 		}  
+ 		li{ 
+ 		float:left;
+ 		display :inline ;
+ 		padding: 5px 20px 
+ 		display :block; 
+ 		padding :10px 50px; 
+ 		color :#FFF8E8;}
+.list {
+	display:block;
+	color :#FFF8E8;
+	text-align: center;
+	padding :10px 50px;
+	font-family:'Dancing Script', cursive;
+	font-size:30px;
+}
+.green{
+	font-size :30px;
+	font-family:Cursive;
+	background-color :#EC4067 ;
+	float:right;
+	text-align:left;
+	font-color:#454E9E ;
+}
+.textbox{
+	
+	position: absolute; 
+	float:right;
+	text-align: justify;
+	
+	left:500px;
+	top:200px;
+	width:600px;
+	line-height:2em;
+}
+.picture{
+	width :30px;
+	margin:30px;
+}
+.dropbtn{
+	background-color:#D64933;
+	
+	color:#D4D2D5;
+	
+	padding:16px;
+	font-size:16px;
+	border:none;
+	cursor:pointer;
+}
+}
+.active{
+ 		background-color:#F6B7BB;
+ 		color:black;
+ 		border:3pt solid black;
+ 	}
+.sections{font-family:'Amatic SC', cursive;
+
+ font-size:50px;
+ font-color:#E2202A;
+ float:left}
+
+ .normal{
+ 	font-family:'Arima Madurai', cursive;
+ 	font-size:30px;
+ 	line-height:2em;
+ 	font-color:#8A654C;
+
+ }
